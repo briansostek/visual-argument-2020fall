@@ -1,4 +1,4 @@
-**Brian Sostek Visual Argument 2020 Fall **
+** Brian Sostek Visual Argument 2020 Fall **
 
 The main idea of my visual argument is to show that trade school is just as viable an option as college.
 
