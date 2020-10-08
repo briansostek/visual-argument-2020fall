@@ -12,5 +12,7 @@ PROPOSED Asset List:
 CURRENT Asset List:
 
 * Receipt paper https://receiptify.herokuapp.com/
+* Welding Mask- Noun Project (Created by Laymik)
+* Graduation Cap- Noun Project (Created by Symbolon)
 
 
